@@ -1,0 +1,3 @@
+-- Get the student's name, student's start_date, cohort's name, and cohort's start_date.
+-- Alias the column names to be more descriptive.
+-- Order by the start date of the cohort.
